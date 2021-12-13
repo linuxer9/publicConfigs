@@ -1,0 +1,19 @@
+{
+  "cloudcfg":
+  {
+    "cfg1":
+    {
+      "title" : "legit config",
+      "url" : "www.google.com",
+      "type" : 1,
+      "author" : "drmmo"
+    },
+    "cfg2":
+    {
+      "title" : "Test config",
+      "url" : "www.google.com",
+      "type" : 2,
+      "author" : "isaac"
+    }
+  }
+}
